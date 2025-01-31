@@ -5,8 +5,8 @@ int main()
 {
 //swaping without third veriable and +,-	
 	
-	int num1 = 30;
-	int num2 = 20;
+	int num1 = 20;
+	int num2 = 30;
 
    num1 = num1 * num2;
    num2 = num1 / num2;
