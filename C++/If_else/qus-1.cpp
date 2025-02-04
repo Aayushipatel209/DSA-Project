@@ -10,7 +10,7 @@ cin >> age;
 
 if(age<=0 || age>=100)
 {
-	cout << "pleace Enter valid age";
+	cout <<"Enter valid age";
 	
 }
 else if(age>=18)
