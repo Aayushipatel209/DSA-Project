@@ -24,10 +24,11 @@ int main()
 	{
 		cout << "your Number is Nautral"; 
 	}
-	
-	else {
+		
+	else
+	 {
 		cout << "Enter valid Number!!";
-	}
+	  }
 	return 0;
 	
 }
