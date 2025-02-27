@@ -7,7 +7,7 @@ int main()
 	int age;
 	cout << "enter the age:";
 	cin >> age;
-	
+	                                                    
 	if(age>=18)
 	{
         //18 t0 100,100+
@@ -48,13 +48,6 @@ int main()
 		   }
 		
 	}
-	
-	
-	
-	
-	
-	
-	
 	
 	return 0;
 }

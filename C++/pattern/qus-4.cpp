@@ -7,7 +7,8 @@ using namespace std;
 //5 4 3 2
 //5 4 3 2 1
 
-int main(){
+int main()
+{
 	
 	for(int i=5;i>=1;i--)
 	{
