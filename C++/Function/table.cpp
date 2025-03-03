@@ -9,13 +9,15 @@ void table(int n)
 		for(int j=1;j<=10;j++)
 		{
 			
-			cout << i " x " j " = " << i*j;
+		 cout <<i<<" * "<<j<<" = "<< i*j;
 					
 	    }
-		cout << endl;
+		
 	}
+	cout << endl;
 }
 int main()
 {
+	table(5);
 	return 0;
 }
